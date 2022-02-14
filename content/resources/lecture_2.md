@@ -5,7 +5,12 @@ description: 'Slides from lecture presentation covering the following topics: Mu
   Manufacturing Issues.'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/2-76-multi-scale-system-design-fall-2004/611337d90f8998ae51551f10fcc1420a_lecture_2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture_2.pdf
+type: OCWFile
 uid: 611337d9-0f89-98ae-5155-1f10fcc1420a
 ---

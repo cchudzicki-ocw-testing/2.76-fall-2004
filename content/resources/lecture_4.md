@@ -5,7 +5,12 @@ description: 'Slides from lecture presentation covering the following topics: Pr
   Parts with Nano Parts, and Micro-scale Part Errors and Implications for Integration'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/2-76-multi-scale-system-design-fall-2004/88a017ed4bd8a94dd5b02ebf7f10743f_lecture_4.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture_4.pdf
+type: OCWFile
 uid: 88a017ed-4bd8-a94d-d5b0-2ebf7f10743f
 ---

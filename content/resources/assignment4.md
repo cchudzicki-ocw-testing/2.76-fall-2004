@@ -8,7 +8,12 @@ description: Problem set 4 of the term project. Each problem set of the term pro
   important as well.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/2-76-multi-scale-system-design-fall-2004/a724cd73ffb3652582e4375806dd8720_assignment4.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: assignment4.pdf
+type: OCWFile
 uid: a724cd73-ffb3-6525-82e4-375806dd8720
 ---

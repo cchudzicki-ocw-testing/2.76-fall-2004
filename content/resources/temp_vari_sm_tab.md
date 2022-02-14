@@ -7,7 +7,12 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Projects
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Image
 title: temp_vari_sm_tab.jpg
+type: OCWImage
 uid: 6d8a5dc5-d37b-f611-4d07-3b4d8fe6f792
 ---
