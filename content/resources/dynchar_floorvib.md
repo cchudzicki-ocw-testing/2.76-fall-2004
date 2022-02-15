@@ -10,6 +10,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: dynchar_floorvib.pdf
-type: OCWFile
 uid: 87dccec0-d5e4-f270-d585-47356ac82c7b
 ---

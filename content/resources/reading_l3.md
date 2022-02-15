@@ -10,6 +10,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: reading_l3.pdf
-type: OCWFile
 uid: 3aa5862a-1724-b75c-3e4a-a7a6fee6c511
 ---

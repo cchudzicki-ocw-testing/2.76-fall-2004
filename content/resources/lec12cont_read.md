@@ -11,6 +11,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: lec12cont_read.pdf
-type: OCWFile
 uid: a529c624-3da0-95df-d8b9-fb80cc421521
 ---

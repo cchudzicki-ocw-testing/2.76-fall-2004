@@ -10,6 +10,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: preamplifier.pdf
-type: OCWFile
 uid: f3ee3fc0-14f4-828b-45b2-1bbb44a43e48
 ---

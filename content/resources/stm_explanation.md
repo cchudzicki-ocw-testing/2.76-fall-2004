@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: stm_explanation.pdf
-type: OCWFile
 uid: b76111a4-1adf-c8be-8759-653ea77ef78c
 ---

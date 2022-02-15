@@ -14,6 +14,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: assignment4.pdf
-type: OCWFile
 uid: a724cd73-ffb3-6525-82e4-375806dd8720
 ---
