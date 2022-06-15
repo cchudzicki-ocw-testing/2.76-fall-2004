@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains information about the tools used throughout the
+  course.
 learning_resource_types:
 - Tools
 ocw_type: CourseSection
