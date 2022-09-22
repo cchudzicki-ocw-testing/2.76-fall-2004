@@ -5,6 +5,7 @@ file: /courses/2-76-multi-scale-system-design-fall-2004/dd58f581d63efae443c1349f
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection

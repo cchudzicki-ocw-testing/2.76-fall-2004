@@ -10,6 +10,7 @@ file: /courses/2-76-multi-scale-system-design-fall-2004/d738da1cda15e22f18aac482
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

@@ -6,6 +6,7 @@ file: /courses/2-76-multi-scale-system-design-fall-2004/e3aa38408025f2777a00408e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
